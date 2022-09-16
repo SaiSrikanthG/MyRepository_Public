@@ -5,3 +5,6 @@ First bitbucket check-in
 
 Second check-in in bitbucket
 
+Demo add command
+
+commit all
